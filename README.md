@@ -3,13 +3,13 @@
 
 ### Install dependencies
 ```
-yarn install
+$ yarn install
 ```
 <br>
 
 ### Run server
 ```
-yarn serve
+$ yarn serve
 ```
 <br>
 
