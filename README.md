@@ -1,24 +1,18 @@
-# vue-start
+# Vue Start
+<br>
 
-## Project setup
+### Install dependencies
 ```
 yarn install
 ```
+<br>
 
-### Compiles and hot-reloads for development
+### Run server
 ```
 yarn serve
 ```
+<br>
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Check on browser
+> http://localhost:8080
+<br>
