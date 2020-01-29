@@ -1,13 +1,13 @@
 <template>
-  <div id="about">
+  <div id="dashboard">
     <div class="content">
-      <h4>About</h4>
+      <h4>Dashboard</h4>
     </div>
   </div>
 </template>
 
 <style lang="scss" scoped>
-#about {
+#dashboard {
   display: flex;
   justify-content: center;
   align-items: center;
